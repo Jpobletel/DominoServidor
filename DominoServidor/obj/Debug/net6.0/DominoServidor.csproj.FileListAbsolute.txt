@@ -1,0 +1,30 @@
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/bin/Debug/net6.0/DominoServidor
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/bin/Debug/net6.0/DominoServidor.deps.json
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/bin/Debug/net6.0/DominoServidor.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/bin/Debug/net6.0/DominoServidor.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/bin/Debug/net6.0/ref/DominoServidor.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/bin/Debug/net6.0/DominoServidor.pdb
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/ref/DominoServidor.dll
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.pdb
+/home/rodrigo/Desktop/IIC2113/Clases/Clase 06/Domino/DominoServidor/DominoServidor/obj/Debug/net6.0/DominoServidor.genruntimeconfig.cache
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\bin\Debug\net6.0\DominoServidor.exe
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\bin\Debug\net6.0\DominoServidor.deps.json
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\bin\Debug\net6.0\DominoServidor.runtimeconfig.json
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\bin\Debug\net6.0\DominoServidor.dll
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\bin\Debug\net6.0\DominoServidor.pdb
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.csproj.AssemblyReference.cache
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.AssemblyInfoInputs.cache
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.AssemblyInfo.cs
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.csproj.CoreCompileInputs.cache
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.dll
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\refint\DominoServidor.dll
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.pdb
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\DominoServidor.genruntimeconfig.cache
+C:\Users\javie\RiderProjects\Domino\DominoServidor\DominoServidor\obj\Debug\net6.0\ref\DominoServidor.dll
